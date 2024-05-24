@@ -1,6 +1,7 @@
 ### Olá! 👋
 
-Meu nome é Eloá, sou estudante da [Alura](https://www.alura.com.br)
+Meu nome é Eloá
+- Sou estudante da [Alura](https://www.alura.com.br);
 - Estou aprendendo a linguagem JavaScript;
 - Utilizo esse espaço para compartilhar meus projetos.
 
